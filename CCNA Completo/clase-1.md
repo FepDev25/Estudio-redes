@@ -1,4 +1,4 @@
-# Curso CCNA - Introducción a Redes
+# **Clase 1: Curso CCNA - Introducción a Redes**
 
 ## 1. Cisco: Empresa Líder en Equipos de Redes
 Cisco es uno de los principales fabricantes de equipos de redes de datos. Su tecnología es ampliamente utilizada en infraestructuras de redes empresariales y de telecomunicaciones. Cisco proporciona una variedad de soluciones, desde equipos físicos hasta software de gestión de redes y seguridad.
