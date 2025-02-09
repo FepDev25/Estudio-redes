@@ -1,4 +1,3 @@
-
 # **Clase 12: Configuración Básica de un Switch III**
 
 ## **1. Seguridad en el Acceso a un Switch**
